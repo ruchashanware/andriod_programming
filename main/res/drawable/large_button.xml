@@ -1,0 +1,7 @@
+<selector xmlns:andriod = "http://schemas.android.com/apk/res/android">
+<item
+    andriod:state_pressed="true"
+    andriod:drawable="@drawable/pressed"/>
+    <item
+        andriod:drawable="@drawable/normal"/>
+</selector>

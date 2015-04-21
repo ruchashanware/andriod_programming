@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PairODice</string>
+    <string name="roll">Roll!!</string>
+    <string name="round">Round: </string>
+    <string name="hold">HOLD</string>
+   <string name="action_settings">Settings</string>
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+    <color name="button_normal">#ffffa8be</color>
+    <color name="button_pressed">#ffffaf7d</color>
+    <color name="button_text">#ff3c75ff</color>
+    <color name="background">#ffa4c9ff</color>
+</resources>
