@@ -1,0 +1,25 @@
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+
+
+
+    </style>
+
+  <!-- <style name="MyTheme" parent="@android:style/Theme.Holo.Light">
+        <item name="android:actionBarStyle">@style/MyActionBar</item>
+   </style>
+   <style name="MyActionBar" parent="@android:style/Widget.Holo.Light.ActionBar">
+        <item name="android:background">#ff85b3ff</item>
+   </style>-->
+
+    <style name="CustomText">
+        <item name="android:textSize">25sp</item>
+        <item name="android:textColor">#ff3040b6</item>
+   </style>
+   <style name="CalButton">
+        <item name="android:layout_width">75dp</item>
+        <item name="android:layout_height">75dp</item>
+        <item name="android:textSize">25sp</item>
+   </style>
+
+</resources>
